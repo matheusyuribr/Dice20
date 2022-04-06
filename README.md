@@ -1,1 +1,1 @@
-# RPGDice
+# Dice20
